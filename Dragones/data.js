@@ -1,4 +1,4 @@
-const Url = 'https://camilazalazar.github.io/plataformas-moviles-entregas/Dragones/API.json';
+const Url = 'https://camilazalazar.github.io/plataformas-moviles-entregas/Dragones/api.json';
 
 fetch(Url)
   .then(response => response.json())
