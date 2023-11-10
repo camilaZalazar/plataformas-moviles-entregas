@@ -1,0 +1,105 @@
+/* Estilos generales (se mantienen igual) */
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: url('https://images3.alphacoders.com/129/1298880.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #f5f3e9; /* Color de fondo crema o beige */
+  color: #0d0222; /* Texto en color oscuro */
+  min-height: 95vh; /* Altura mínima del viewport */
+}
+/* Encabezado (se mantiene igual) */
+header {
+  background-image: url('https://img.freepik.com/fotos-premium/textura-escamas-dragon-ilustracion-3d-fondo-abstracto-oscuro_200694-436.jpg?w=996'); /* Marrón claro */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+
+}
+
+/* Estilo para las secciones con imagen y texto */
+.layout1,
+.layout2,
+.layout3,
+.layout4,
+.layout5,
+.layout6{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 2rem;
+}
+
+/* Alinea a la izquierda */
+.layout1,
+.layout3,
+.layout5{
+  flex-direction: row-reverse; /* Invierte el orden de las columnas (imagen a la izquierda) */
+}
+/* Alinea a la derecha */
+.layout2,
+.layout4,
+.layout6 {
+  flex-direction: row; /* Mantiene el orden predeterminado de las columnas (imagen a la derecha) */
+}
+
+h2 {
+  color: rgb(255, 255, 255); /* Color de texto oscuro */
+  font-size: 2rem;
+}
+p {
+  /* background-color: #b695c0c9; */
+  backdrop-filter: blur(20px);
+  color: #000000; /* Color de texto oscuro */
+  font-size: 1.3rem;
+}
+
+/* fotos*/
+.foto1,
+.foto2, 
+.foto3, 
+.foto4, 
+.foto5, 
+.foto6,
+.foto7{
+  max-width: 100%; /* Ajusta la imagen al ancho de la columna */
+  max-width: 100%; /* Ajusta la imagen al ancho de su contenedor */
+  height: auto; /* Mantiene la relación de aspecto */
+  width: auto;
+}
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.8rem;
+}
+/* Pie de página */
+footer {
+  text-align: center;
+  background-color: #652d8a; /* Negro */
+  color: #fff;
+  padding: 0.5rem;
+}
+
+.to{
+  display: flex;
+  flex-flow:nowrap; 
+  padding: 1em;
+  gap: 1em;/*para separar los textos (en este caso)*/
+  gap: 1rem;
+  justify-content:space-around;
+}
+.i{
+  background-color: rgba(26, 23, 66, 0.753);/**/
+  box-shadow: 0px 0px 20px 0px rgb(3, 1, 27);/*hace la sombra en la caja*/
+  border-radius: 30px;
+}
+.b{
+  background-color: rgba(26, 23, 66, 0.788);/**/
+  box-shadow: 0px 0px 20px 0px rgb(3, 1, 27);/*hace la sombra en la caja*/
+  border-radius: 30px;
+
+}

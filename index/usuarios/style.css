@@ -1,0 +1,40 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('https://assets.isu.pub/document-structure/211213180022-3f3fcabd61d587728d4afb3ed2c0ba38/v1/19b6cec66ee85b9cebc3e09255b7c29b.jpeg');
+    background-repeat: repeat;
+    background-color: #f5f3e9; /* Color de fondo crema o beige */
+    color: #422106; /* Texto en color oscuro */
+    margin: 0;
+    padding: 0;
+    min-height: 95vh; /* Altura mínima del viewport */
+    flex-wrap:nowrap;
+}
+.tabla{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 95vh;
+}
+.x{
+    width: 100%; /* Ancho del 100% del contenedor */
+    padding: 10px; /* Relleno interior */
+    margin: 5px 0; /* Margen (arriba/abajo izquierda/derecha) */
+    border: 1px solid #ccc; /* Borde con color */
+    border-radius: 5px; /* Bordes redondeados */
+}
+.boton{
+    background-color: #8b5b13; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Relleno interior (arriba/abajo izquierda/derecha) */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cursor de puntero al pasar el mouse */
+}
+.tbody{
+    background-color: brown;
+    border-color: black;
+    border: 0.5rem;
+    border-collapse: collapse;
+    background-color: beige;
+    border: 2px solid #b3ff5d;      
+}

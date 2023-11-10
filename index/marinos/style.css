@@ -1,0 +1,89 @@
+*{/*selector general seleciona todos*/
+    padding: 0%;
+    margin: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-image: url('../imgs/fondo2.jpeg');/*pone imgs*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #a8ceda; /* Texto en color oscuro */
+    margin: 0;
+    padding: 0;
+    min-height: 95vh; /* Altura mínima del viewport */
+    flex-wrap:nowrap;
+}
+
+header {
+    background-color: #083b72; /* Marrón claro */
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+    
+}
+
+footer{
+    background-color: #0b1d44; /* Marrón claro */
+    color: #94a2f0;
+    text-align: center;
+    padding: 1rem;
+
+}
+/* Estilos para centrar imágenes y dejar párrafos debajo de ellas */
+.introduccion {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra horizontalmente */
+    text-align: center; /* Centra el texto dentro de la introducción */
+    padding: 2rem; /* Añade espacio alrededor del contenido */
+    gap: 5em;
+  }
+  
+  .imgen-dragon,
+  .imgleviatan,
+  .Jiaolong,
+  .Taniwha,
+  .mard,
+  .dm,
+  .x{
+    max-width: 100%; /* Las imágenes no serán más anchas que su contenedor */
+    height: auto; /* La altura se ajusta automáticamente para mantener la relación de aspecto */
+    margin-bottom: 1rem; /* Agrega espacio debajo de cada imagen */
+}
+
+.introduccion>section{
+    display: flex;
+    flex-flow: column wrap; 
+    background-color: rgba(26, 23, 66, 0.404);/**/
+    box-shadow: 0px 0px 20px 0px rgb(3, 1, 27);/*hace la sombra en la caja*/
+    padding: 1em;
+    gap: 1em;/*para separar los textos (en este caso)*/
+    border-radius: 10px;/*para redondear el bode*/
+}
+.introduccion>section img{
+    max-width: 100%;/**/
+    object-fit: 3/2;/**/
+}
+p{
+    font-size: 1.5rem;
+}
+.to{
+    display: flex;
+    flex-flow:nowrap; 
+    padding: 1em;
+    gap: 1em;/*para separar los textos (en este caso)*/
+    border-radius: 20px;/*para redondear el bode*/
+    gap: 1rem;
+    justify-content:space-evenly;
+  }
+  .i{
+    background-color: rgba(69, 67, 100, 0.404);/**/
+    box-shadow: 0px 0px 20px 0px rgb(3, 1, 27);/*hace la sombra en la caja*/
+    border-radius: 30px;
+  }
+  .b{
+    background-color: rgba(69, 67, 100, 0.404);/**/
+    box-shadow: 0px 0px 20px 0px rgb(3, 1, 27);/*hace la sombra en la caja*/
+    border-radius: 30px;
+  }

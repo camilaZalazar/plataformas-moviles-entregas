@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>registrarse</title> 
+    <style>
+               input[type="submit"] {
+                background-color: #4CAF50;
+                color: white;
+                padding: 10px 20px;
+                text-align:center;
+                text-decoration:none;
+                display:block;
+                justify-content:center;
+                font-size: 16px;
+                border-radius: 4px;
+                cursor:pointer;
+                margin-top:10px;
+                border:none;
+            }
+            table {
+                margin: auto;
+                border-collapse: collapse;
+                background-color: beige;
+                border: 2px solid #b3ff5d;      
+            }
+            td {
+                padding: 4px;
+                /*text-align:left;*/
+            }
+            h2 {
+                color: #333;
+            }
+            h3 {
+                text-align: left;
+                color: #666;
+            }
+            input[type="text"],
+            input[type="email"],
+            select[id="sexo"],
+            select[id="dia"],
+            select[id="mes"],
+            select[id="año"],
+            input[type="altura"],
+            input[type="peso"],
+            input[type="password"]{
+                padding: 8px;
+                width: 200px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                outline: none;
+                text-overflow: ellipsis;
+
+            }
+
+            select {
+                padding: 4px;
+                width: 150px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                outline: none;
+                text-overflow: ellipsis;
+            }
+          
+        </style> 
+    
+</head>
+<body>
+    <table>
+        <tr>
+            <td colspan="2">
+                <h2>regístrate</h2>  
+                <h3></h3>
+            </td>
+        </tr>
+        <form method="post" action='conexin.php'>
+            <tr>    
+                <td>nombre</td>
+                <td><input type="text" name="nombre" required></td>
+            </tr>
+            <tr>
+                <td>apellido</td>
+                <td><input type="text" id="apellido" name="apellido" required></td>
+            </tr>
+            <tr>
+                <td>tu email</td>
+                <td><input type="email" id="email" name="email" required></td>
+            </tr>    
+            <tr>    
+                <td>escribe el correo de nuevo</td>
+                <td><input type="email" id="confirm_email" name="confirm_email" required></td>
+            </tr>
+            <tr>    
+                <td>contraseña nueva</td>
+                <td><input type="password" id="contraseña" name="contraseña"></td>
+            </tr>
+            <tr>    
+                <td>sexo</td>
+                <td>
+                    <select id="sexo" name="sexo" required>
+                        <option value="sexo">sexo</option>
+                        <option value="hombre">hombre</option>
+                        <option value="mujer">mujer</option>
+                        <option value="prefiero_no_decirlo">prefiero no decirlo</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>    
+                <td>altura</td>
+                <td><input type="altura" id="altura" name="altura" required></td>
+            </tr>
+            <tr>    
+                <td>peso</td>
+                <td><input type="peso" id="altura" name="peso" required></td>
+            </tr>
+            <tr>    
+                <td>fecha de Nacimiento</td>
+                <td>
+                    <select id="dia" name="dia" required>
+                        <option value="0">Día</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                        <option value="25">25</option>
+                        <option value="26">26</option>
+                        <option value="27">27</option>
+                        <option value="28">28</option>
+                        <option value="29">29</option>
+                        <option value="30">30</option>
+                        <option value="31">31</option>
+                    </select>
+                    <select id="mes" name="mes" required>
+                        <option value="13">Mes</option>
+                        <option value="0">Enero</option>
+                        <option value="1">Febrero</option>
+                        <option value="2">Marzo</option>
+                        <option value="3">Abril</option>
+                        <option value="4">Mayo</option>
+                        <option value="5">Junio</option>
+                        <option value="6">Julio</option>
+                        <option value="7">Agosto</option>
+                        <option value="8">Septiembre</option>
+                        <option value="9">Otubre</option>
+                        <option value="10">Noviembre</option>
+                        <option value="11">Diciembre</option>
+                    </select>
+                    <select id="año" name="año" required>
+                        <option value="0">año</option>
+                        <option value="1">1940</option>
+                        <option value="2">1941</option>
+                        <option value="3">1942</option>
+                        <option value="4">1943</option>
+                        <option value="5">1944</option>
+                        <option value="6">1945</option>
+                        <option value="7">1946</option>
+                        <option value="8">1947</option>
+                        <option value="9">1948</option>
+                        <option value="10">1949</option>
+                        <option value="11">1950</option>
+                        <option value="12">1951</option>
+                        <option value="13">1952</option>
+                        <option value="14">1953</option>
+                        <option value="15">1954</option>
+                        <option value="16">1955</option>
+                        <option value="17">1956</option>
+                        <option value="18">1957</option>
+                        <option value="19">1958</option>
+                        <option value="20">1959</option>
+                        <option value="21">1960</option>
+                        <option value="22">1961</option>
+                        <option value="23">1962</option>
+                        <option value="24">1963</option>
+                        <option value="25">1964</option>
+                        <option value="26">1965</option>
+                        <option value="27">1966</option>
+                        <option value="28">1967</option>
+                        <option value="29">1968</option>
+                        <option value="30">1969</option>
+                        <option value="31">1970</option>
+                        <option value="32">1971</option>
+                        <option value="33">1972</option>
+                        <option value="34">1973</option>
+                        <option value="35">1974</option>
+                        <option value="36">1975</option>
+                        <option value="37">1976</option>
+                        <option value="38">1977</option>
+                        <option value="39">1978</option>
+                        <option value="40">1979</option>
+                        <option value="41">1980</option>
+                        <option value="42">1981</option>
+                        <option value="43">1982</option>
+                        <option value="44">1983</option>
+                        <option value="45">1984</option>
+                        <option value="46">1985</option>
+                        <option value="47">1986</option>
+                        <option value="48">1987</option>
+                        <option value="49">1988</option>
+                        <option value="50">1989</option>
+                        <option value="51">1990</option>
+                        <option value="52">1991</option>
+                        <option value="53">1992</option>
+                        <option value="54">1993</option>
+                        <option value="55">1994</option>
+                        <option value="56">1995</option>
+                        <option value="57">1996</option>
+                        <option value="58">1997</option>
+                        <option value="59">1998</option>
+                        <option value="60">1999</option>
+                        <option value="61">2000</option>
+                        <option value="62">2001</option>
+                        <option value="63">2002</option>
+                        <option value="64">2003</option>
+                        <option value="65">2004</option>
+                        <option value="66">2005</option>
+                        <option value="67">2006</option>
+                        <option value="68">2007</option>
+                        <option value="69">2008</option>
+                        <option value="70">2009</option>
+                        <option value="71">2010</option>
+                        <option value="72">2011</option>
+                        <option value="73">2012</option>
+                        <option value="74">2013</option>
+                        <option value="75">2014</option>
+                        <option value="76">2015</option>
+                        <option value="77">2016</option>
+                        <option value="78">2017</option>
+                        <option value="79">2018</option>
+                        <option value="80">2019</option>
+                        <option value="81">2020</option>
+                        <option value="82">2021</option>
+                        <option value="83">2022</option>
+                    </select>
+                </td>
+            </tr>
+            <tr> <tr class="center-button-row"></tr>   
+                <td colspan="2"><input type="submit" value="registrarme"></td>
+            </tr>        
+        </form>
+    </table>
+</body>
+</html>

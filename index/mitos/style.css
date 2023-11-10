@@ -1,0 +1,114 @@
+/* Estilos generales */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('https://assets.isu.pub/document-structure/211213180022-3f3fcabd61d587728d4afb3ed2c0ba38/v1/19b6cec66ee85b9cebc3e09255b7c29b.jpeg');
+    background-repeat: repeat;
+    background-color: #f5f3e9; /* Color de fondo crema o beige */
+    color: #422106; /* Texto en color oscuro */
+    margin: 0;
+    padding: 0;
+    min-height: 95vh; /* Altura mínima del viewport */
+    flex-wrap:nowrap;
+  }
+/* Encabezado (se mantiene igual) */
+header {
+  background-image: url('https://www.connuestroperu.com/images/stories/cosas/libro/libros-viejos.jpg'); /* Marrón claro */
+  /* background-repeat: no-repeat;
+  background-size: no cover;
+  background-attachment: fixed; */
+  color: #fff;
+  /* text-align: center; */
+  padding: 2rem;
+}
+/* Estilo para las secciones con imagen y texto */
+.layout1,
+.layout2,
+.layout3,
+.layout4,
+.layout5,
+.layout6,
+.layout7,
+.layout8,
+.layout9,
+.gif {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  padding: 3rem;
+}
+
+/* Alinea a la izquierda */
+.layout1,
+.layout3,
+.layout5,
+.layout7,
+.layout9,
+.gif {
+  flex-direction: row-reverse; /* Invierte el orden de las columnas (imagen a la izquierda) */
+}
+/* Alinea a la derecha */
+.layout2,
+.layout4,
+.layout6,
+.layout8 {
+  flex-direction: row; /* Mantiene el orden predeterminado de las columnas (imagen a la derecha) */
+}
+
+.x{
+  color: #5a310f; /* Color de texto oscuro */
+  font-size: 2.2rem;
+  text-align: center;
+}
+h2 {
+  color: #834e11; /* Color de texto oscuro */
+  font-size: 2rem;
+}
+p {
+  color: #572903; /* Color de texto oscuro */
+  font-size: 1.5rem;
+}
+
+/* fotos*/
+.foto1,
+.foto2, 
+.foto3, 
+.foto4, 
+.foto5, 
+.foto6,
+.foto7{
+  max-width: 100%; /* Ajusta la imagen al ancho de la columna */
+  height: auto; /* Mantiene la relación de aspecto */
+  max-width: 100%;/**/
+  object-fit: 3/2;/**/
+}
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9rem;
+}
+/* Pie de página */
+footer {
+  text-align: center;
+  background-color: rgb(177, 143, 81); /* Negro */
+  color: rgb(243, 225, 167);
+  padding: 0.5rem;
+}
+.to{
+  display: flex;
+  flex-flow:nowrap; 
+  padding: 1em;
+  gap: 1em;/*para separar los textos (en este caso)*/
+  border-radius: 20px;/*para redondear el bode*/
+  gap: 1rem;
+  justify-content:space-evenly;
+}
+.i{
+  background-color: rgba(255, 255, 255, 0.61);/**/
+   box-shadow: 0px 0px 20px 0px rgb(3, 1, 27);/*hace la sombra en la caja*/
+  border-radius: 30px;
+}
+.b{
+  background-color: rgba(255, 255, 255, 0.61);/**/
+  box-shadow: 0px 0px 20px 0px rgb(3, 1, 27);/*hace la sombra en la caja*/
+  border-radius: 30px;
+}
