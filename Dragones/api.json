@@ -53,20 +53,24 @@
         },
         {
             "titulo":"bestias mitologicas",
-            "parrafo":"",
-            "img":"",
-            "fig":""
+            "parrafo":"Un bestiario mitológico es una colección de animales y criaturas mitológicas, a menudo monstruosas e irreales, como el Ave Fénix o serpientes de múltiples cabezas. Estas criaturas se consideraban reales durante la Edad Media y se usaban para explicar fenómenos inexplicables. Algunas de estas criaturas combinaban características humanas y animales, y otras eran híbridos de dos especies animales. Por ejemplo, la creencia de que los bebés que cambiaban de comportamiento habían sido reemplazados por duendes ilustra cómo se utilizaban estas criaturas para entender eventos cotidianos.Los bestiarios medievales surgieron como una forma de clasificar a estas criaturas y determinar si eran creaciones divinas o diabólicas, lo que estaba en línea con las creencias morales de la época. Estos bestiarios reflejaban la fascinación ancestral del ser humano por el mundo animal, que se remonta a la Prehistoria y se encuentra en obras como las fábulas de Esopo en la antigua Grecia.",
+            "img":"https://2.bp.blogspot.com/-RjxT6vJylD8/WyzLKg8bhvI/AAAAAAAAZo4/NKny7m4mKfgOY-2qIdU_bn4AUNwXn3cogCLcBGAs/s640/BESTIARIO.jpg",
+            "fig":"Grifo atacando a un caballo. Un bestiario medieval, palabra que proviene del Latín bestiarum, es un compendio de bestias o animales mas o menos fantásticos, que se hicieron muy populares durante la Edad Media, sobre todo en Inglaterra y Francia cerca del siglo XII, pero su origen se remonta tiempo atrás. amanuense"
         },
         {
-            "titulo":"",
-            "parrafo":"",
-            "img":"",
-            "fig":""
+            "titulo":"La parte no tan magica de los bestiarios",
+            "parrafo":"la mayoria de mestias mitologicas eran ocasionadas por las interpretaciones de los escribas que nunca en su vida habia visto en toda su vida el animal que se les pedia retratar,lo unico que tenian era una descripcion ambigua sobre estos animales",
+            "img":"https://4.bp.blogspot.com/-N3C20zvKcuo/Wy1RZDeqHUI/AAAAAAAAZrA/_xJnlLLza_w0RMFe_dHdhDPff--cSmUYQCLcBGAs/s640/Kongelige%2BBibliotek.jpg",
+            "fig":"por ejemplo este era un ''Grillo'' en la edad media"
         },
         {
-            "titulo":"",
-            "parrafo":"",
-            "img":"",
+            "titulo":"Hormiga leon",
+            "parrafo":"Hormigas recolectando grano en espigas de trigo (Bestiario de Philippe de Thaon, c. 1300)
+
+La hormiga debe el nombre de formica a que recoge las restos (ferre micas) del trigo. Es mucha su laboriosidad. Provee para el futuro y se procura durante el verano el alimento para el invierno.
+
+(Bestiario del s. XV. Descripción basada en De Proprietatibus Rerum de Bartholomeus Anglicus, s. XIII) La hormiga-león tiene semejante nombre porque es el león de las hormigas, o bien porque es a un tiempo hormiga y león. Se trata de un pequeño animal, feroz enemigo de las hormigas, que se esconde entre el polvo y mata a las hormigas que pasan transportando alimentos.",
+            "img":"https://1.bp.blogspot.com/-cVGUX8pmtlg/Wy3wN8Ya26I/AAAAAAAAZto/PpXUInEthK4PBJ5TsXI8dRx-f2mmEQndgCLcBGAs/s1600/Etimologias.jpg",
             "fig":""
         }
     ],
