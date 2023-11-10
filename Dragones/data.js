@@ -5,7 +5,7 @@ fetch(Url)
   .then(data => {
     const resultElement = document.getElementById('resultado');
 
-    data.forEach(dragones => {
+    data.forEach(api => {
       const apiElement = document.createElement('div');
       apiElement.className = 'layout1';
 
