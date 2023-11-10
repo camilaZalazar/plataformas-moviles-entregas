@@ -7,19 +7,11 @@ fetch(Url)
 
     data.forEach(api => {
       const apiElement = document.createElement('div');
-      apiElement.className = 'layout1';
-
       apiElement.innerHTML = `
-        <div class="foto1">
-          <img src="${dragones.img}" alt="${dragones.titulo} imagen">
-          <figcaption>${dragones.fig}</figcaption>
-        </div>
-        <div>
-          <h2>${dragones.titulo}</h2>
-          <p class="parrafo-lila">${dragones.parrafo}</p>
-        </div>
+        <h2>${api.titulo}</h2>
+        <p>${api.parrafo}</p>
+        <img src="${api.img}" alt="${api.titulo} imagen">
       `;
-
       resultElement.appendChild(apiElement);
     });
   })
