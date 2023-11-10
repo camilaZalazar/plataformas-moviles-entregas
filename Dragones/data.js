@@ -5,13 +5,21 @@ fetch(Url)
   .then(data => {
     const resultElement = document.getElementById('resultado');
 
-    data.forEach(api => {
+    data.forEach(dragones => {
       const apiElement = document.createElement('div');
+      apiElement.className = 'layout1';
+
       apiElement.innerHTML = `
-        <h2>${api.titulo}</h2>
-        <p>${api.parrafo}</p>
-        <img src="${api.img}" alt="${api.titulo} imagen">
+        <div class="foto1">
+          <img src="${dragones.img}" alt="${dragones.titulo} imagen">
+          <figcaption>${dragones.fig}</figcaption>
+        </div>
+        <div>
+          <h2>${dragones.titulo}</h2>
+          <p class="parrafo-lila">${dragones.parrafo}</p>
+        </div>
       `;
+
       resultElement.appendChild(apiElement);
     });
   })
