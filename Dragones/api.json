@@ -1,76 +1,106 @@
 {
     "dragones":[
 
-    {
+    {   
         "titulo": "DRAGONES",
-        "parrafo": "A menudo se culpa a los dragones por las fuertes tormetas. En algunas culturas se decía que los relámpagos y los truenos eran causados por dragones que luchaban en el cielo,mientras que las inundaciones se producían al luchar en el agua.En Japón, los dragones también cuidaban tanto ríos como lagos,y se los consideraba como dioses. En tiempos de sequía,la gente intentaba despertar a los dragones, que se suponia dormian en el fondo de los lagos y de los rios.al despertar, volaban por enfurecidos por el cielo y causaban lluvia.",
-        "img":"https://th.bing.com/th/id/OIP.uYHBQ6WgTskFqQ3ERVaotgHaEo?pid=ImgDet&w=161&h=100&c=7",
+        "parrafo": " A menudo se culpa a los dragones por las fuertes tormentas. En algunas culturas se decía que los relámpagos y los truenos eran causados por dragones que luchaban en el cielo, mientras que las inundaciones se producían al luchar en el agua. En Japón, los dragones también cuidaban tanto ríos como lagos, y se los consideraba como dioses. En tiempos de sequía, la gente intentaba despertar a los dragones, que se suponía dormían en el fondo de los lagos y de los ríos. Al despertar, volaban enfurecidos por el cielo y causaban lluvia.",
+        "img":"https://th.bing.com/th/id/OIP.uYHBQ6WgTskFqQ3ERVaotgHaEo?pid=ImgDet&w=261&h=500&c=7",
         "fig": ""
     },
     {
-        "titulo": "DRAGONES VIETNAMITAS",
-        "parrafo": "Los dragones vietnamitas (en vietnamita: Rồng 龍) son criaturas simbólicas del folclore y mitología de Vietnam. Según un antiguo mito, los vietnamitas son descendientes de un dragón y un hada. Para los vietnamitas, el dragón trae la lluvia, esencial para la agricultura. Representa el emperador, la prosperidad y el poder de la nación. Al igual que el dragón chino, el dragón vietnamita es el símbolo del yang, lo que representa el universo, la vida, la existencia y el crecimiento. Referencias existentes al dragón vietnamita son raros ahora debido a los feroces cambios en la historia que acompañaron a la sinización del dinastía Nguyen.",
-        "img":"https://cdn.shopify.com/s/files/1/0269/0868/8432/files/Dragon-Dynastie-Ly_5dc52327-8844-478e-bcc6-506a116f1362.jpg?v=1586253292",
-        "fig": "Los dragones vietnamitas (en vietnamita: Rồng 龍) son criaturas simbólicas del folclore y mitología de Vietnam. Según un antiguo mito, los vietnamitas son descendientes de un dragón y un hada. Para los vietnamitas, el dragón trae la lluvia, esencial para la agricultura. Representa el emperador, la prosperidad y el poder de la nación. Al igual que el dragón chino, el dragón vietnamita es el símbolo del yang, lo que representa el universo, la vida, la existencia y el crecimiento. Referencias existentes al dragón vietnamita son raros ahora debido a los feroces cambios en la historia que acompañaron a la sinización del dinastía Nguyen."
+        "tit": "DRAGONES VIETNAMITAS",
+        "pap": "Los dragones vietnamitas (en vietnamita: Rồng 龍) son criaturas simbólicas del folclore y la mitología de Vietnam. Según un antiguo mito, los vietnamitas son descendientes de un dragón y un hada. Para los vietnamitas, el dragón trae la lluvia, esencial para la agricultura. Representa al emperador, la prosperidad y el poder de la nación. Al igual que el dragón chino, el dragón vietnamita es el símbolo del yang, que representa el universo, la vida, la existencia y el crecimiento. Las referencias existentes al dragón vietnamita son raras ahora debido a los feroces cambios en la historia que acompañaron a la sinización de la dinastía Nguyen.",
+        "imag":"https://cdn.shopify.com/s/files/1/0269/0868/8432/files/Dragon-Dynastie-Ly_5dc52327-8844-478e-bcc6-506a116f1362.jpg?v=1586253292",
+        "figu": "Los dragones vietnamitas (en vietnamita: Rồng 龍) son criaturas simbólicas del folclore y mitología de Vietnam. Según un antiguo mito, los vietnamitas son descendientes de un dragón y un hada. Para los vietnamitas, el dragón trae la lluvia, esencial para la agricultura. Representa el emperador, la prosperidad y el poder de la nación. Al igual que el dragón chino, el dragón vietnamita es el símbolo del yang, lo que representa el universo, la vida, la existencia y el crecimiento. Referencias existentes al dragón vietnamita son raros ahora debido a los feroces cambios en la historia que acompañaron a la sinización del dinastía Nguyen."
     },
     {
         "titulo":"Dragones Chinos",
-        "parrafo":"El dragón chino (en chino tradicional, 龍; en chino simplificado, 龙; pinyin, lóng) es un animal mitológico y legendario de China y de otras culturas asiáticas que dispone de partes de nueve animales: ojos de langosta, cuernos de ciervo, morro de camello, nariz de perro, bigotes de bagre, melena de león, cola de serpiente, escamas de pez y garras de águila. El dragón es también la personificación del concepto del yang (masculino) y está relacionado con el tiempo como propiciador de la lluvia y el agua en general.",
+        "parrafo":"El dragón chino (en chino tradicional, 龍; en chino simplificado, 龙; pinyin, lóng) es un animal mitológico y legendario de China y de otras culturas asiáticas que dispone de partes de nueve animales: ojos de langosta, cuernos de ciervo, morro de camello, nariz de perro, bigotes de bagre, melena de león, cola de serpiente, escamas de pez y garras de águila.El dragón es también la personificación del concepto del yang (masculino) y está relacionado con el tiempo como propiciador de la lluvia y el agua en general.",
         "img":"https://th.bing.com/th/id/OIP.Vb9VKqr9LNJLZ-YIno371QHaEt?pid=ImgDet&w=161&h=102&c=7",
         "fig":""
     },
     {
-        "titulo":"El año nuevo chino",
-        "parrafo":"El Año Nuevo chino (en chino tradicional, 農曆新年; en chino simplificado, 农历新年; pinyin, nónglì xīnnián, 'Año Nuevo del Calendario Agrario'), también denominado Fiesta de la Primavera (春节, 春節, chūnjié), es la festividad tradicional más importante del año en el calendario chino, celebrada también en otros países en el este y del sudeste de Asia. El año 2023 se celebra en la cultura china el año 4721, el año del conejo de agua (en chino tradicional, 水兔年). Basado en el calendario lunisolar1​ tradicionalmente utilizado en China, las celebraciones comienzan el primer día del primer mes lunar (正月, zhēng yuè) y terminan el día quince, cuando se celebra la Fiesta de los Faroles (元宵节, 元宵節, yuánxiāojié). Durante este periodo, se produce la mayor migración humana del planeta, el 'movimiento de primavera' (春运, 春運, chūnyùn), y millones de personas viajan a sus lugares de origen para celebrar las fiestas con sus familias. El año 4721 según el calendario chino comenzó el 22 de enero de 2023. Y su cómputo parte desde el año 2697 a. C. La víspera del Año Nuevo, el equivalente a la 'Noche Vieja' occidental, se llama en chino 'chuxi' (除夕, chúxī; chu, 'pasar', y xi, 'víspera').",
-        "img":"https://uprostim.com/wp-content/uploads/2021/03/image059-61.jpg",
-        "fig":""
+        "tit":"El año nuevo chino",
+        "pap":"El Año Nuevo chino, también conocido como la Fiesta de la Primavera, es la celebración más importante en el calendario chino y se celebra en otros países del este y sudeste de Asia. En 2023, se conmemora como el año 4721, el año del conejo de agua. Las festividades siguen el calendario lunisolar y abarcan desde el primer día del primer mes lunar hasta la Fiesta de los Faroles en el día quince. Durante este tiempo, se produce una migración masiva, conocida como el 'movimiento de primavera', donde millones viajan para reunirse con sus familias. El año chino 4721 inició el 22 de enero de 2023, y su cálculo se remonta al año 2697 a. C. La víspera del Año Nuevo chino se llama 'chuxi', equivalente a la 'Noche Vieja' occidental.",
+        "imag":"https://uprostim.com/wp-content/uploads/2021/03/image059-61.jpg",
+        "figu":""
     },
     {
         "titulo":"Dragones coreanos",
-        "parrafo":"Mientras que la mayoría de los dragones en la mitología europea están vinculados a elementos de fuego y destrucción, los dragones en la mitología coreana son principalmente seres benevolentes relacionados con el agua y la agricultura, a menudo considerados portadores de la lluvia y las nubes. Por lo tanto, se dice que muchos dragones coreanos han vivido en los ríos, lagos y océanos o incluso profundas lagunas de montaña. El símbolo del dragón ha sido utilizado ampliamente, tanto en la mitología coreana y en el antiguo arte coreano.Los textos antiguos a veces mencionan a los dragones como seres de habla inteligente, capaces de comprender emociones tan complejas como la devoción, la bondad y gratitud El dragón coreano en muchos aspectos es muy similar en apariencia a los dragones de la mitología china, vietnamita y japonesa. Se diferencia del dragón chino en que desarrolló una larga barba. Muy de vez en cuando un dragón puede ser representado como llevando un orbe conocido como yeouiju (여의주), nombre coreano para la mítica chintamani, en sus garras o en su boca. Se dijo que todo el que podía manejar el yeouiju sería bendecido con las habilidades de la omnipotencia y la creación a voluntad, y que sólo cuatro dedos de los dragones (que tenían puntas con las que celebrabra los orbes) eran sabios y lo suficientemente potentes para manejar estos orbes, a diferencia de los dragones menores, de tres dedos. Al igual que en China, el número nueve es significativo y auspicioso en Corea, y se dice que los dragones tienen 81 (9×9) escalas en la espalda, representando la esencia del yang.",
+        "parrafo":"La mitología coreana presenta dragones benevolentes asociados con el agua y la agricultura, en contraste con los dragones europeos ligados al fuego y la destrucción. Estos dragones, considerados portadores de lluvia, nubes y esenciales para la naturaleza, habitan ríos, lagos y océanos. El símbolo del dragón es prominente en la mitología y el arte coreano. Los textos antiguos describen a los dragones coreanos como seres inteligentes que comprenden emociones complejas, similar a los dragones de la mitología china, vietnamita y japonesa. Se distinguen por desarrollar largas barbas. Algunos dragones pueden llevar un orbe llamado yeouiju, similar a la chintamani, otorgando poderes de omnipotencia y creación. Se cree que solo los dragones de cuatro dedos son lo suficientemente sabios y poderosos para manejar estos orbes. En la cultura coreana, los dragones tienen 81 escamas, resaltando la esencia del yang.",
         "img":"https://i.pinimg.com/originals/cb/03/4f/cb034f68d60e6e0ae4c0dabe98907755.jpg",
         "fig":""
     },
     {
-        "titulo":"Criaturas peligrosas",
-        "parrafo":"Los dragones occidentales eran muchos más bestialiles que los dragones orientales,ademas solian secuestrar personas,robar y/0 recolectaban tesoros para acumularlos en su cueva. A menudo exigian sacrificios humanos para detener los estragos que causaban.Con frecuencia, se cazaba y se mataba a los dragones de las tierras occidentales , ya fuera para obtener sus tesoros o liberar a las personas capturadas",
-        "img":"https://i.pinimg.com/originals/cb/03/4f/cb034f68d60e6e0ae4c0dabe98907755.jpg",
-        "fig":""
+        "tit":"Criaturas peligrosas",
+        "pap":"Los dragones occidentales se caracterizaban por su naturaleza más 'bestial' en comparación con los dragones orientales. Tenían tendencia a secuestrar personas, robar y acumular tesoros en sus cuevas. A menudo, exigían sacrificios humanos para evitar causar estragos. En las tierras occidentales, los dragones eran cazados y asesinados, ya sea para obtener sus tesoros o liberar a las personas capturadas.",
+        "imag":"https://uprostim.com/wp-content/uploads/2021/03/image061-62-1172x720.jpg",
+        "figu":""
     }
     ],
-"mitos": [
+    "mitos": [
         {
             "titulo":"mitos",
-            "parrafo":"los mitos son leyendas que las comunidades va creando alrededor de una verdad, desastre natural, o algúna cosa de la cual no pueden hallar una respuesta despues de ser contada tantas veses que varios detalles se van perdiendo con el tiempo y otros se modifican, por eso diferentes criaturas mitologicas pueden ser muy difentes pero sus historias tener varias similitudes por otro lado",
-            "img":"https://2.bp.blogspot.com/-TqrqwyBvH6U/Wy4I9AXnp4I/AAAAAAAAZw8/qv4i9NAVOMsTF53n03jWFGTZeYBLIB45wCLcBGAs/s1600/Monoceros_-_Burney_MS_97.png",
+            "parrafo":"Los mitos son leyendas que las comunidades van creando alrededor de una verdad, desastre natural u alguna cosa de la cual no pueden hallar una respuesta. Después de ser contada tantas veces, varios detalles se van perdiendo con el tiempo y otros se modifican. Por eso, diferentes criaturas mitológicas pueden ser muy diferentes, pero sus historias pueden tener varias similitudes.        por otro lado",
+            "img":"",
             "fig":""
         },
         {
             "titulo":"MITOLOGIA INGLESA Y NORDICA",
-            "parrafo":"La mitología inglesa hace referencia al paganismo germánico que era practicado por los pueblos ingleses entre el siglo V y VII en Inglaterra. Los anglosajones estaban formados por tribus de los anglos, sajones, frisones y yutes que llegaron a Gran Bretaña, estos grupos venían desde el sur de Escandinavia, países bajos y el norte de Alemania. Se trataba de una sociedad que en gran parte era analfabeta por lo que sus cuentos eran transmitidos de forma oral entre los grupos y las tribus por juglares anglosajones. sus dioses son los mismos que los dioses nordicos solo que los nombres fueron cambiados",
+            "parrafo":"La mitología inglesa hace referencia al paganismo germánico que era practicado por los pueblos ingleses entre el siglo V y VII en Inglaterra. Los anglosajones</a> estaban formados por tribus de los anglos, sajones, frisones y yutes que llegaron a Gran Bretaña; estos grupos venían desde el sur de Escandinavia, los Países Bajos y el norte de Alemania. Se trataba de una sociedad que, en gran parte, era analfabeta, por lo que sus cuentos eran transmitidos de forma oral entre los grupos y las tribus por juglares anglosajones. Sus dioses son los mismos que los dioses nórdicos, solo que los nombres fueron cambiados.",
             "img":"https://qph.cf2.quoracdn.net/main-qimg-210026af42ef665a04a17a2cf3bb1b22-pjlq",
-            "fig":"si te interezan los anglosajones y quieres conocer mas sobre ellos puedes ver datos curiosos aqui"
+            "fig":""
         },
         {
             "titulo":"bestias mitologicas",
-            "parrafo":"Un bestiario mitológico es una colección de animales y criaturas mitológicas, a menudo monstruosas e irreales, como el Ave Fénix o serpientes de múltiples cabezas. Estas criaturas se consideraban reales durante la Edad Media y se usaban para explicar fenómenos inexplicables. Algunas de estas criaturas combinaban características humanas y animales, y otras eran híbridos de dos especies animales. Por ejemplo, la creencia de que los bebés que cambiaban de comportamiento habían sido reemplazados por duendes ilustra cómo se utilizaban estas criaturas para entender eventos cotidianos.Los bestiarios medievales surgieron como una forma de clasificar a estas criaturas y determinar si eran creaciones divinas o diabólicas, lo que estaba en línea con las creencias morales de la época. Estos bestiarios reflejaban la fascinación ancestral del ser humano por el mundo animal, que se remonta a la Prehistoria y se encuentra en obras como las fábulas de Esopo en la antigua Grecia.",
+            "parrafo":"Un bestiario mitológico es una colección de animales y criaturas mitológicas, a menudo monstruosas e irreales, como el Ave Fénix o serpientes de múltiples cabezas. Estas criaturas se consideraban reales durante la Edad Media y se usaban para explicar fenómenos inexplicables. Algunas de estas criaturas combinaban características humanas y animales, y otras eran híbridos de dos especies animales. Por ejemplo, la creencia de que los bebés que cambiaban de comportamiento habían sido reemplazados por duendes ilustra cómo se utilizaban estas criaturas para entender eventos cotidianos. Los bestiarios medievales surgieron como una forma de clasificar a estas criaturas y determinar si eran creaciones divinas o diabólicas, lo que estaba en línea con las creencias morales de la época. Estos bestiarios reflejaban la fascinación ancestral del ser humano por el mundo animal, que se remonta a la Prehistoria y se encuentra en obras como las fábulas de Esopo en la antigua Grecia.",
             "img":"https://2.bp.blogspot.com/-RjxT6vJylD8/WyzLKg8bhvI/AAAAAAAAZo4/NKny7m4mKfgOY-2qIdU_bn4AUNwXn3cogCLcBGAs/s640/BESTIARIO.jpg",
-            "fig":"Grifo atacando a un caballo. Un bestiario medieval, palabra que proviene del Latín bestiarum, es un compendio de bestias o animales mas o menos fantásticos, que se hicieron muy populares durante la Edad Media, sobre todo en Inglaterra y Francia cerca del siglo XII, pero su origen se remonta tiempo atrás. amanuense"
+            "fig":"Grifo atacando a un caballo.  Un bestiario medieval, palabra que proviene del Latín bestiarum, es un compendio de bestias o animales mas o menos fantásticos, que se hicieron muy populares durante la Edad Media, sobre todo en Inglaterra y Francia cerca del siglo XII, pero su origen se remonta tiempo atrás.amanuense"
         },
         {
             "titulo":"La parte no tan magica de los bestiarios",
-            "parrafo":"la mayoria de mestias mitologicas eran ocasionadas por las interpretaciones de los escribas que nunca en su vida habia visto en toda su vida el animal que se les pedia retratar,lo unico que tenian era una descripcion ambigua sobre estos animales",
+            "parrafo":"La mayoría de las bestias mitológicas eran ocasionadas por las interpretaciones de los escribas que nunca en su vida habían visto el animal que se les pedía retratar. Lo único que tenían era una descripción ambigua sobre estos animales.    por ejemplo este era un ''Grillo'' en la edad media",
             "img":"https://4.bp.blogspot.com/-N3C20zvKcuo/Wy1RZDeqHUI/AAAAAAAAZrA/_xJnlLLza_w0RMFe_dHdhDPff--cSmUYQCLcBGAs/s640/Kongelige%2BBibliotek.jpg",
-            "fig":"por ejemplo este era un ''Grillo'' en la edad media"
+            "fig":""
         },
         {
-            "titulo":"Hormiga leon",
-            "parrafo":"Hormigas recolectando grano en espigas de trigo (Bestiario de Philippe de Thaon, c. 1300)La hormiga debe el nombre de formica a que recoge las restos (ferre micas) del trigo. Es mucha su laboriosidad. Provee para el futuro y se procura durante el verano el alimento para el invierno.(Bestiario del s. XV. Descripción basada en De Proprietatibus Rerum de Bartholomeus Anglicus, s. XIII) La hormiga-león tiene semejante nombre porque es el león de las hormigas, o bien porque es a un tiempo hormiga y león. Se trata de un pequeño animal, feroz enemigo de las hormigas, que se esconde entre el polvo y mata a las hormigas que pasan transportando alimentos.",
+            "titulo":"''Homiga leon''",
+            "parrafo":"Hormigas recolectando grano en espigas de trigo (Bestiario de Philippe de Thaon, c. 1300)    La hormiga debe el nombre de formica a que recoge las restos (ferre micas) del trigo. Es mucha su laboriosidad. Provee para el futuro y se procura durante el verano el alimento para el invierno.",
             "img":"https://1.bp.blogspot.com/-cVGUX8pmtlg/Wy3wN8Ya26I/AAAAAAAAZto/PpXUInEthK4PBJ5TsXI8dRx-f2mmEQndgCLcBGAs/s1600/Etimologias.jpg",
+            "fig":"(Bestiario del s. XV. Descripción basada en De Proprietatibus Rerum de Bartholomeus Anglicus, s. XIII) La hormiga-león tiene semejante nombre porque es el león de las hormigas, o bien porque es a un tiempo hormiga y león. Se trata de un pequeño animal, feroz enemigo de las hormigas, que se esconde entre el polvo y mata a las hormigas que pasan transportando alimentos."
+        },
+        {
+            "titulo":"Elefantes",
+            "parrafo":"los elefantes en la edad media hoy en diá resultan hilarantes y se alejan bastante a las images de elefantes que tenemos en la actualidad",
+            "img":"https://3.bp.blogspot.com/-NS0X4lY3hus/Wy39OnxLtZI/AAAAAAAAZvE/J4iy9HOBOp4gOYvNyMe9oBFSJwj48IFngCLcBGAs/s1600/Elefantes%2Ben%2Bel%2Br%25C3%25ADo%252C%2Bbestiario%2Bde%2BRochester.jpg",
+            "fig":""
+        },
+        {
+            "titulo":"Dragón",
+            "parrafo":"Este de aquí es un dragón... como se puede apreciar, no parece en nada a las representaciones de dragones que tenemos hoy en día.",
+            "img":"https://2.bp.blogspot.com/-oWqeQh8bH2Y/Wy4AWUXncRI/AAAAAAAAZv8/yCR-CtBuII4BHSHbHdPvb36beCqXRrkFgCLcBGAs/s640/g-west-dragon.jpg",
+            "fig":""
+        },
+        {
+            "titulo":"Bestiario de JUAN DE AUSTRIA",
+            "parrafo":"Quería hacer una mención especial a este bestiario en particular, ya que es el único bestiario escrito en castellano conservado que data de 1570 y se titula ''Bestiario'' de Juan de Austria'', escrito por Martín Villaverde. Su original se encuentra en el Monasterio de Santa María de La Vid (Burgos).",
+            "img":"https://3.bp.blogspot.com/-H1J3s3UbkRs/Wy4HuaVldkI/AAAAAAAAZwk/o7dLs9srNFweOCWrR62JQifpyD8IbAaqgCLcBGAs/s1600/don%2Bjuan%2Bde%2Baustria%2BM%25C2%25BA%2Bde%2Bla%2BVid.png",
+            "fig":"Martín Villaxide  Bestiario de Juan de Austria El Bestiario de Juan de Austria,es un manuscrito del Siglo XVI, cuyo autor fue Martín Villaxide y que se llama así porque fue dedicado a D. Juan de Austria, hijo bastardo del emperador Carlos V, al que conoció en 1558 en el Monasterio de Yuste."
+        },
+        {
+            "titulo":"''Perros que representan los vicios, atacan a su señor con la imagen de un ciervo''",
+            "parrafo":"apenas es un libro científico, sino más bien descriptivo. No hay vegetales ni plantas. Es una suerte de enciclopedia del reino animal (peces, mamíferos, insectos), establecida con un orden poco seguro y en la que se incrustan, de vez en cuando, seres fantásticos, como los que alegóricamente se recreaban en unos saberes muy poco rigurosos. Cuenta con 484 páginas llenas de maravillas, secretos y multitud de dibujos coloreados.",
+            "img":"https://3.bp.blogspot.com/-x-PO6_kes-k/Wy4HuVUlsxI/AAAAAAAAZwo/Vj_IXQPZ-ssm7RJi0Od7L5Z8ObGoI3ucwCLcBGAs/s1600/img_1611.jpg",
+            "fig":""
+        },
+        {
+            "titulo":"",
+            "parrafo":"",
+            "img":"",
             "fig":""
         }
     ],
-"marinos": [
+    "marinos": [
         {
             "titulo":"",
             "parrafo":"",
