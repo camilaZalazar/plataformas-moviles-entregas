@@ -17,7 +17,7 @@ fetch(Url)
         <div class="layout2">
         <h2 class="f>${api.tit}<h2>
         <p class="p">${api.pap}</p>
-        <img src="${api.imgag}" alt="${api.tit} height="700" width="700" imagen"></div>
+        <img src="${api.imgag}" alt="${api.tit} height="500" width="500" imagen"></div>
         `;
       resultElement.appendChild(apiElement);
     });
