@@ -5,7 +5,7 @@ fetch(Url)
   .then(data => {
     const resultElement = document.getElementById('resultado'); 
     console.log(data)
-    data.Dragones.forEach(api => {
+    data.dragones.forEach(api => {
       const apiElement = document.createElement('div');
       apiElement.innerHTML = `
         <h2 class="f">${api.titulo}</h2>
